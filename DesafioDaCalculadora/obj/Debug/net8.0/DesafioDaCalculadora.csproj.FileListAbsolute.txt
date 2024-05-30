@@ -1,0 +1,14 @@
+C:\Users\arman\source\repos\DesafioDaCalculadora\bin\Debug\net8.0\DesafioDaCalculadora.exe
+C:\Users\arman\source\repos\DesafioDaCalculadora\bin\Debug\net8.0\DesafioDaCalculadora.deps.json
+C:\Users\arman\source\repos\DesafioDaCalculadora\bin\Debug\net8.0\DesafioDaCalculadora.runtimeconfig.json
+C:\Users\arman\source\repos\DesafioDaCalculadora\bin\Debug\net8.0\DesafioDaCalculadora.dll
+C:\Users\arman\source\repos\DesafioDaCalculadora\bin\Debug\net8.0\DesafioDaCalculadora.pdb
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\DesafioDaCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\DesafioDaCalculadora.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\DesafioDaCalculadora.AssemblyInfo.cs
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\DesafioDaCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\DesafioDaCalculadora.dll
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\refint\DesafioDaCalculadora.dll
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\DesafioDaCalculadora.pdb
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\DesafioDaCalculadora.genruntimeconfig.cache
+C:\Users\arman\source\repos\DesafioDaCalculadora\obj\Debug\net8.0\ref\DesafioDaCalculadora.dll
